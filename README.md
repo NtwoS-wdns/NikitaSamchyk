@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">game dev</h3>
 
-- 🔭 I’m currently working on **Sail Survival, Ordacs RPG**
+🔭 I’m currently working on **Sail Survival, Ordacs RPG**
+<p>🛠 Previous "good projects" in which i participated: Xeus(survival, online game with world generation) </p> 
+<p>🗡 Future probable project: </p>
+<p>   - online game about SCP(unnamed) -> participating</p>
+<p>   - Ordacs RPG 2 -> my project</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Discord - @n2s</p>
